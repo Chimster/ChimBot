@@ -1,0 +1,20 @@
+{
+  "name": "chimbot",
+  "version": "1.0.0",
+  "description": "Discord bot with currently over 100 sounds",
+  "main": "ChimBot.js",
+  "scripts": {
+    "start": "node ChimBot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Chimster/ChimBot"
+  },
+  "author": "Chim_",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "*",
+    "chalk": "*",
+    "request": "*"
+  }
+}
